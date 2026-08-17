@@ -1,0 +1,12 @@
+{
+  "users": [],
+  "notifications": [
+    {"id": 1, "title": "Monsoon readiness", "body": "Please avoid throwing waste into storm-water drains. Report blocked drains with a photo.", "date": "Today"},
+    {"id": 2, "title": "Water supply update", "body": "Scheduled maintenance is planned in Dharampeth and Laxmi Nagar on Friday, 10 AM-2 PM.", "date": "Yesterday"}
+  ],
+  "complaints": [
+    {"id":"NMC-2026-1042","title":"Live wire sparking near school gate","category":"Electrical","zone":"Laxmi Nagar","address":"Somalwada Road, near school gate","description":"Exposed overhead wire is sparking after rain. Children pass this gate throughout the day.","priority":94,"severity":"Critical","status":"Assigned","created":"18 min ago","ai":"Immediate public safety risk: live electrical hazard near a school. Route to Electrical Department within 30 minutes.","department":"Electrical","attachments":[]},
+    {"id":"NMC-2026-1041","title":"Overflowing garbage point","category":"Sanitation","zone":"Satranjipura","address":"Kalamna Market junction","description":"Garbage pile is overflowing into the road and attracting stray animals.","priority":72,"severity":"High","status":"In progress","created":"1 hr ago","ai":"High density commercial area with repeat reports and sanitation risk. Prioritize today.","department":"Solid Waste Management","attachments":[]},
+    {"id":"NMC-2026-1040","title":"Pothole on inner road","category":"Roads","zone":"Dharampeth","address":"Ramdaspeth, lane 3","description":"A deep pothole is slowing traffic.","priority":43,"severity":"Medium","status":"Received","created":"3 hrs ago","ai":"Moderate road safety risk. No adjacent duplicate reports detected.","department":"Public Works","attachments":[]}
+  ]
+}
